@@ -13,12 +13,12 @@
 
 
   ## Description
- README file generator
+ This JS app will create a file based on the answers from the prompt questions
   ## Installation
-  Double click file
+  Navigate to the directory with index.js then initiate node index.js
 
   ## Usage
-  Answer prompt questions
+  Answer the prompt questions as best you can
 
 
   ## Contribution
@@ -26,15 +26,13 @@
 
 
   ## Test
-   Answer the questions, generate the file and parse for errors
+   Using node index.js and following prompts then parsing for errors in the README file
 
 
 
   ## License
-   ![GitHub license](https://img.shields.io/badge/license-BSD_3-blue.svg)
+   
    ## License
-  This project is licensed under: BSD 3
-  
 
   ## GitHub
    mwibert
